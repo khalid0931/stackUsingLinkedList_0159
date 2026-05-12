@@ -14,3 +14,8 @@ class Node
         next = NULL;
     }
 };
+
+//Stack class
+class stack
+{
+private:
