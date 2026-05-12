@@ -75,3 +75,10 @@ private:
     return top == NULL; // Return true if the top pointer is null, indicating am e
     }
 };
+
+int main()
+{
+    stack stack;
+    
+    int choice = 0;
+    int value;
